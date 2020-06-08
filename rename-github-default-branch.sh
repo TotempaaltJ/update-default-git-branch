@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+set -e
+
 USER=$1
 REPO=$2
 
