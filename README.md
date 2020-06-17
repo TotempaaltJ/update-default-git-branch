@@ -1,4 +1,4 @@
-# Rename repos
+# Change Github repository default branches from CLI
 
 > **⚠ These scripts perform DESCTRUCTIVE actions on your Github repositories.** I _strongly_ recommend against using this if you don't understand what the code does.
 
