@@ -16,7 +16,7 @@ $ ./rename-for-all-repos.sh <USER> <from-branch-name> <to-branch-name>
 Then, in your local repo:
 
 ```bash
-$ git branch <from-branch-name> -m <to-branch-name> && git branch <from-branch-name> -u origin/<to-branch-name>
+$ git branch <from-branch-name> -m <to-branch-name> && git branch <to-branch-name> -u origin/<to-branch-name>
 ```
 
 That should work without any trouble.
