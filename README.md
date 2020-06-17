@@ -1,6 +1,8 @@
 # Rename repos
 
-Will create a new branch on Github and change the default branch to it, and then delete the old one.
+Will create a new branch on Github and change the default branch to it, and then delete the old one. You'll need the [Github CLI][cli] for this.
+
+[cli]: https://cli.github.com
 
 How to use:
 
