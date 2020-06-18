@@ -24,3 +24,10 @@ $ ./local-rename-to-remote.sh </path/to/repo> <from-branch-name>
 ```
 
 That should work without any trouble.
+
+## Help out!
+
+I'm very open to PRs to support other platforms (like GitLab, Bitbucket, sr.ht,
+etc…), as well as other ways to improve the source. Please keep it all Bash or
+at least some other widely-supported scripting language. I'd like to keep it as
+easy as possible to use!
